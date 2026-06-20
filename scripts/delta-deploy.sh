@@ -1,0 +1,1 @@
+#!/bin/bash echo delta deploy run three
